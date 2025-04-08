@@ -1,4 +1,4 @@
-### Currently building Hybrid AI to help athletes create personalized hybrid training programs.
+### Currently building Hybrid Training Club to help people run and lift.
 
 <!--
 **michaelrbautista/michaelrbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
