@@ -1,4 +1,4 @@
-### Currently building Hybrid Training Club to help people run and lift.
+### Currently building 
 
 <!--
 **michaelrbautista/michaelrbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
